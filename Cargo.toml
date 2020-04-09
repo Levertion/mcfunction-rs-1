@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "crates/parse",
+    "crates/cli",
     "crates/data",
     "crates/util",
     "crates/nbtdoc",
